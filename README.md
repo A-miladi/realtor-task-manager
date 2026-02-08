@@ -1,6 +1,6 @@
 # 🏠 Real Estate Management System
 
-A modern web application for real estate agencies to manage property files, agent tasks, and client interactions.
+A modern web application for real state agencies to manage property files, agent tasks, and client interactions.
 
 ## ✨ Features
 
