@@ -1,0 +1,6 @@
+export const USER_INFO = 'amlak-user'
+export const SETTING_INFO = 'settings'
+export const AUTH = 'auth'
+export const AMLAK_TOKEN = 'amlak-token'
+export const ALL_USERS = 'amlak-users'
+export const ALL_NOTIFICATIONS = 'notifications'
